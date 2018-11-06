@@ -1,0 +1,13 @@
+
+<resources>
+<string name="app_name">ViewPagerDemo</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="tab_menu_alert">提醒</string>
+    <string name="tab_menu_profile">信息</string>
+    <string name="tab_menu_pay">我的</string>
+    <string name="tab_menu_setting">设置</string>
+</resources>
+
